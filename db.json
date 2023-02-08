@@ -1,0 +1,69 @@
+{
+    "filmesDeComedia":[
+        {
+            "id": 1,
+            "nome": "Click",
+            "sinopse": "Um arquiteto casado e com filhos está cada vez mais frustrado por passar a maior parte de seu tempo trabalhando. Um dia, ele encontra um inventor excêntrico que lhe dá um controle remoto universal, com capacidade de acelerar o tempo. No início, ele usa o aparelho para acelerar qualquer momento tedioso, mas se dá conta de que está acelerando o tempo demais e deixando de viver preciosos momentos em família. Desesperado, ele procura o inventor para ajudá-lo a reverter o que fez.",
+            "anoDeLancamento": 2006
+        },
+
+        {
+            "id": 2,
+            "nome": "Esposa de Mentirinha",
+            "sinopse": "Infeliz em sua tentativa de casamento, Danny passa a vivenciar relacionamentos sem compromisso para driblar a carência. Assim, ele toca sua vida como cirurgião plástico bem-sucedido, tendo sua melhor amiga Katherine, mãe solteira de um casal, como fiel escudeira. Quando conhece a jovem Palmer e a paixão toma conta de ambos, ele inventa, para tentar conquistá-la, que é marido de Katherine, pai das crianças e que vai se separar",
+            "anoDeLancamento": 2011
+        },
+        {
+            "id": 3,
+            "nome": "Zohan: Um agente bom de corte",
+            "sinopse": "Cansado de todas as lutas em seu país, um lendário militar israelense chamado Zohan finge sua própria morte e se muda para Nova York, onde pode realizar seu grande sonho: tornar-se um cabeleireiro famoso.",
+            "anoDeLancamento": 2008
+        },
+        {
+            "id": 4,
+            "nome": "Cada um tem a gêmea que merece",
+            "sinopse": "Jack, um publicitário de sucesso com uma linda família, enlouquece com a visita de sua irmã gêmea Jill no dia de Ação de Graças. As coisas ficam ainda mais fora de controle quando Jill decide ficar mais tempo.",
+            "anoDeLancamento": 2011
+        },
+        {
+            "id": 5,
+            "nome": "Eu os declaro Marido e Larry",
+            "sinopse": "Chuck Levine e Larry Valentine são bombeiros e muito amigos. Quando Larry, que é viúvo, descobre que não pode colocar seus filhos como beneficiários da apólice do seguro de vida, ele necessita de um grande favor de Chuck: ele pede para Chuck se passar por seu companheiro homossexual. Os dois acabam virando notícia e precisam levar a mentira até o fim, pois o caso deles acaba indo para julgamento.",
+            "anoDeLancamento": 2007
+        }
+    ],
+
+    "filmesDeRomance": [
+        {
+            "id": 1,
+            "nome": "A culpa é das estrelas",
+            "sinopse": "Hazel Grace Lancaster e Augustus Waters são dois adolescentes que se conhecem em um grupo de apoio para pacientes com câncer. Por causa da doença, Hazel sempre descartou a ideia de se envolver amorosamente, mas acaba cedendo ao se apaixonar por Augustus. Juntos, eles viajam para Amsterdã, onde embarcam em uma jornada inesquecível.",
+            "anoDeLancamento": 2014
+        },
+        {
+            "id": 2,
+            "nome": "Orgulho e Preconceito",
+            "sinopse": "Elizabeth Bennet vive com sua mãe, pai e irmãs no campo, na Inglaterra. Por ser uma das filhas mais velhas, ela enfrenta uma crescente pressão de seus pais para se casar. Quando Elizabeth é apresentada ao belo e rico Darcy, faíscas voam. Embora haja uma química óbvia entre os dois, a natureza excessivamente reservada de Darcy ameaça a relação.",
+            "anoDeLancamento": 2006
+        },
+        {
+            "id": 3,
+            "nome": "10 Coisas que odeio em você",
+            "sinopse": "Bianca Stratford é bonita e popular, mas não pode namorar antes de sua irmã mais velha. O problema é que nenhum garoto consegue chegar perto da irmã, Kat Stratford. Para resolver a situação, um rapaz interessado em Bianca suborna um amigo com passado misterioso para sair com Kat e, quem sabe, tentar conquistá-la.",
+            "anoDeLancamento": 1999
+        },
+        {
+            "id": 4,
+            "nome": "Como se fosse a primeira vez",
+            "sinopse": "Henry Roth é um veterinário paquerador, que vive no Havaí, e famoso pelo grande número de turistas que conquista. Seu novo alvo é Lucy Whitmore, que mora no local e por quem Henry se apaixona perdidamente. Mas Lucy sofre de falta de memória de curto prazo e, por isso, ela rapidamente se esquece de fatos que acabaram de acontecer. Assim, Henry é obrigado a conquistá-la, dia após dia, para ficar ao seu lado.",
+            "anoDeLancamento": 2004
+        },
+        {
+            "id": 5,
+            "nome": "De Repente 30",
+            "sinopse": "Jenna Rink é uma garota que está descontente com sua própria idade. Em seu 13º aniversário, ela faz um pedido: virar adulta. O pedido milagrosamente se torna realidade e, no dia seguinte, Jenna acorda com 30 anos de idade.",
+            "anoDeLancamento": 2004
+        }
+    ]
+
+}
