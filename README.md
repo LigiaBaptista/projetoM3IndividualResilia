@@ -45,6 +45,7 @@ Caso você queira apenas deletar 1 elemento da rota, você deve acrescentar uma 
 
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![image](https://user-images.githubusercontent.com/116887504/218183177-0dd59c6b-3898-41f1-99e1-23e448052ccf.png)
 
 
 
