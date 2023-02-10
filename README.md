@@ -1,7 +1,7 @@
 # Resilia Individual Módulo 3
 
 ## Contexto
-Para esse projeto deveriamos criar um servidor do tipo Json-Server com 2 ou mais rotas, nas quais o usuário podera realizar o CRUD (CREATE, READ, UPDATE, DELETE), por meio do, POST, GET, PUT, DELETE.
+Para esse projeto deveriamos criar um servidor do tipo Json-Server com 2 ou mais rotas, nas quais o usuário podera realizar o CRUD (CREATE, READ, UPDATE, DELETE), por meio do, POST(criar um novo elemento na rota), GET(ver um elemento da rota), PUT(atualizar um elemento da rota), DELETE(deletar um elemento da rota).
 
 
 ## Como Usar
@@ -13,6 +13,7 @@ $ npm install json-server --save-dev
 <br>2º Rodar o json-watch para acessar o localhost:
 <br>
 $ npx json-server --watch db.json
+<br> Com isso aparecera no terminal o link do Localhost
 <br>3º Utilizar uma ferramenta para testar a API:
 <br>
 Para esse passo recomendamos o uso o insomnia. Com essa ferramenta você podera testar o servidor, com o CRUD.
@@ -40,6 +41,13 @@ DELETE
 Caso você queira apenas deletar 1 elemento da rota, você deve acrescentar uma / com o id desejado no final da URL.
 
 ![image](https://user-images.githubusercontent.com/118377204/218104402-dc45c5db-fac7-420a-addd-6e9235d2ab78.png)
+
+# Tecnologias Utilizadas
+
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![image](https://user-images.githubusercontent.com/116887504/218183177-0dd59c6b-3898-41f1-99e1-23e448052ccf.png)
+
 
 
 
