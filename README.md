@@ -13,6 +13,7 @@ $ npm install json-server --save-dev
 <br>2º Rodar o json-watch para acessar o localhost:
 <br>
 $ npx json-server --watch db.json
+<br> Com isso aparecera no terminal o link do Localhost
 <br>3º Utilizar uma ferramenta para testar a API:
 <br>
 Para esse passo recomendamos o uso o insomnia. Com essa ferramenta você podera testar o servidor, com o CRUD.
