@@ -1,7 +1,7 @@
 # Resilia Individual Módulo 3
 
 ## Contexto
-Para esse projeto deveriamos criar um servidor do tipo Json-Server com 2 ou mais rotas, nas quais o usuário podera realizar o CRUD (CREATE, READ, UPDATE, DELETE), por meio do, POST, GET, PUT, DELETE.
+Para esse projeto deveriamos criar um servidor do tipo Json-Server com 2 ou mais rotas, nas quais o usuário podera realizar o CRUD (CREATE, READ, UPDATE, DELETE), por meio do, POST(criar um novo elemento na rota), GET(ver um elemento da rota), PUT(atualizar um elemento da rota), DELETE(deletar um elemento da rota).
 
 
 ## Como Usar
@@ -40,6 +40,12 @@ DELETE
 Caso você queira apenas deletar 1 elemento da rota, você deve acrescentar uma / com o id desejado no final da URL.
 
 ![image](https://user-images.githubusercontent.com/118377204/218104402-dc45c5db-fac7-420a-addd-6e9235d2ab78.png)
+
+# Tecnologias Utilizadas
+
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 
 
